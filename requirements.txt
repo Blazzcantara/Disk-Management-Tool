@@ -1,0 +1,9 @@
+﻿setuptools
+PyQt5
+Flask
+pySMART
+cryptography
+paramiko
+tensorflow
+requests
+psutil
