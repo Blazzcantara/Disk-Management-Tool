@@ -1,26 +1,28 @@
 # Disk Management Tool
 
-A comprehensive tool for analyzing, backing up, recovering, and repairing disk drives.
+Ein umfassendes Tool zur Analyse, Sicherung, Wiederherstellung und Reparatur von Festplatten.
 
 ## Features
 
-- Disk analysis
-- Backup creation
-- Data recovery
-- Disk repair
+- Festplattenanalyse
+- Backup-Erstellung
+- Datenwiederherstellung
+- Festplattenreparatur
+
+[Weitere wichtige Inhalte aus beiden Versionen]
 
 ## Installation
 
-[Instructions will be added here]
+[Installationsanweisungen hier einfügen]
 
-## Usage
+## Verwendung
 
-[Usage details will be added here]
+[Verwendungsdetails hier einfügen]
 
-## Contributing
+## Beitragen
 
-[Contribution guidelines will be added here]
+[Richtlinien für Beiträge hier einfügen]
 
-## License
+## Lizenz
 
-[License information will be added here]
+Dieses Projekt ist unter der MIT-Lizenz lizenziert. Siehe [LICENSE](LICENSE) Datei für Details.
